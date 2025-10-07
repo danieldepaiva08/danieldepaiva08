@@ -9,7 +9,7 @@ Atualmente estou concluindo o curso de **Desenvolvimento de Sistemas integrado a
 Tenho grande interesse em seguir na área de **programação e tecnologia**, e pretendo **cursar Engenharia de Software ou Engenharia da Computação**.  
 Gosto de desenvolver soluções criativas e funcionais, e atualmente trabalho em meu **TCC**, um aplicativo estilo “Uber para advogados”, desenvolvido em **React Native com TypeScript e Firebase**.
 <p align="left">
-    <a href="www.linkedin.com/in/danielpaiva08" target="_blank">
+    <a href="https://www.linkedin.com/in/danielpaiva08" target="_blank">
         <img 
             alt="LinkedIn"
             title="Conecte-se comigo no LinkedIn"
