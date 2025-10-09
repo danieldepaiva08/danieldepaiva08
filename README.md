@@ -1,34 +1,28 @@
-# 👨🏽‍💻 Daniel de Paiva 
+# 👨🏽‍💻 Daniel de Paiva Tertuliano
 
-**`Desenvolvedor em Construção`**
+**"Desenvolvedor em Construção"**
 
+Meu nome é **Daniel de Paiva Tertuliano**, tenho **18 anos** e moro em Campinas, São Paulo.
+Tenho grande interesse na área de tecnologia e programação, pois o processo de criação e desenvolvimento de soluções digitais que impactam o cotidiano das pessoas me fascina. Estou sempre buscando aprimorar meus conhecimentos em linguagens de programação, ferramentas tecnológicas e desenvolvimento de sistemas, com foco em inovação e eficiência.
+---
 
-Sou **Daniel de Paiva Tertuliano**, tenho 18 anos e sou de Campinas/SP.  
-Atualmente estou concluindo o curso de **Desenvolvimento de Sistemas integrado ao Ensino Médio na ETEC de Hortolândia**.  
+### 🏆 Conquistas e Experiência
+Atualmente estou concluindo o **Ensino Médio** integrado ao **Curso Técnico em Desenvolvimento de Sistemas**, onde tenho a oportunidade de me desenvolver tanto no âmbito técnico quanto pessoal. Possui grande interesse em desenvolver soluções que sejam funcionais e criativas, que atendam às reais necessidades das pessoas. 
 
-Tenho grande interesse em seguir na área de **programação e tecnologia**, e pretendo **cursar Engenharia de Software ou Engenharia da Computação**.  
-Gosto de desenvolver soluções criativas e funcionais, e atualmente trabalho em meu **TCC**, um aplicativo estilo “Uber para advogados”, desenvolvido em **React Native com TypeScript e Firebase**.
+No momento, estou me dedicando ao meu TCC (Trabalho de Conclusão de Curso), onde sou o **Líder de Projeto**. A solução **ILaw** consiste em uma aplicação mobile que funcione como um **"Uber para advogados"**, criado com o intuito de conectar profissionais da área de Direito a clientes de forma rápida e eficiente. O projeto está sendo desenvolvido com React Native, TypeScript e Firebase, permitindo que eu aplique e aprofunde meus conhecimentos técnicos, além de fortalecer minhas habilidades em liderança, planejamento e desenvolvimento de projetos de forma íntegra e estratégica.
+---
+
+### 🌐 Contato
+
 <p align="left">
-    <a href="https://www.linkedin.com/in/danielpaiva08" target="_blank">
-        <img 
-            alt="LinkedIn"
-            title="Conecte-se comigo no LinkedIn"
-            src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
+    <a href="https://www.linkedin.com/in/daniel-de-paiva" target="_blank">
+        <img alt="LinkedIn" title="Me siga no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a> 
+    <a href="https://www.instagram.com" target="_blank">
+        <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-    <a href="https://www.instagram.com/dpaivaz?igsh=MjA3NTF3cG1yNHcy" target="_blank">
-        <img 
-            alt="Instagram"
-            title="Me siga no Instagram"
-            src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
-    <a href="mailto:dtertuliano0809@gmail.com" target="_blank">
-        <img 
-            alt="Gmail"
-            title="dtertuliano0809@gmail.com"
-            src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
+    <a href="https://mail.google.com/mail/u/0" target="_blank">
+        <img alt="Email" title="Entre em contato" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </p>
 
@@ -36,58 +30,20 @@ Gosto de desenvolver soluções criativas e funcionais, e atualmente trabalho em
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<br/>
-<br/>
+<p align="left">
+    <img title="HTML" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> &nbsp;
+    <img title="CSS" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> &nbsp;
+    <img title="JavaScript" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> &nbsp;
+    <img title="TypeScript" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> &nbsp;
+    <img title="React" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> &nbsp;
+    <img title="React Native" alt="React Native" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> &nbsp;
+    <img title="Firebase" alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" /> &nbsp;
+    <img title="Git" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> &nbsp;
+</p>
+--- 
 
 ### 📊 Estatísticas
+
 
 <p>
   <img 
