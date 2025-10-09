@@ -1,15 +1,25 @@
-# 👨🏽‍💻 Daniel de Paiva Tertuliano
+<div align="center">
 
+### 👨🏽‍💻 Daniel de Paiva Tertuliano  
 **"Desenvolvedor em Construção"**
 
-Meu nome é **Daniel de Paiva Tertuliano**, tenho **18 anos** e moro em Campinas, São Paulo.
-Tenho grande interesse na área de tecnologia e programação, pois o processo de criação e desenvolvimento de soluções digitais que impactam o cotidiano das pessoas me fascina. Estou sempre buscando aprimorar meus conhecimentos em linguagens de programação, ferramentas tecnológicas e desenvolvimento de sistemas, com foco em inovação e eficiência.
+</div>
+
+Meu nome é **Daniel de Paiva Tertuliano**, tenho **18 anos** e moro em **Campinas, São Paulo**.  
+Tenho grande interesse na área de tecnologia e programação, pois o processo de criação e desenvolvimento de soluções digitais que impactam o cotidiano das pessoas me fascina.  
+Estou sempre buscando aprimorar meus conhecimentos em linguagens de programação, ferramentas tecnológicas e desenvolvimento de sistemas, com foco em **inovação e eficiência**.
+
 ---
 
-### 🏆 Conquistas e Experiência
-Atualmente estou concluindo o **Ensino Médio** integrado ao **Curso Técnico em Desenvolvimento de Sistemas**, onde tenho a oportunidade de me desenvolver tanto no âmbito técnico quanto pessoal. Possui grande interesse em desenvolver soluções que sejam funcionais e criativas, que atendam às reais necessidades das pessoas. 
+**🏆 Conquistas e Experiência**  
 
-No momento, estou me dedicando ao meu TCC (Trabalho de Conclusão de Curso), onde sou o **Líder de Projeto**. A solução **ILaw** consiste em uma aplicação mobile que funcione como um **"Uber para advogados"**, criado com o intuito de conectar profissionais da área de Direito a clientes de forma rápida e eficiente. O projeto está sendo desenvolvido com React Native, TypeScript e Firebase, permitindo que eu aplique e aprofunde meus conhecimentos técnicos, além de fortalecer minhas habilidades em liderança, planejamento e desenvolvimento de projetos de forma íntegra e estratégica.
+Atualmente estou concluindo o **Ensino Médio** integrado ao **Curso Técnico em Desenvolvimento de Sistemas**, onde tenho a oportunidade de me desenvolver tanto no âmbito técnico quanto pessoal.  
+Possuo grande interesse em desenvolver soluções que sejam **funcionais e criativas**, que atendam às reais necessidades das pessoas.  
+
+No momento, estou me dedicando ao meu **TCC (Trabalho de Conclusão de Curso)**, onde sou o **Líder de Projeto**.  
+A solução **ILaw** consiste em uma aplicação mobile que funcione como um **"Uber para advogados"**, criada com o intuito de conectar profissionais da área de Direito a clientes de forma rápida e eficiente.  
+O projeto está sendo desenvolvido com **React Native, TypeScript e Firebase**, permitindo que eu aprofunde meus conhecimentos técnicos, além de fortalecer minhas habilidades em **liderança, planejamento e desenvolvimento de projetos**.
+
 ---
 
 ### 🌐 Contato
