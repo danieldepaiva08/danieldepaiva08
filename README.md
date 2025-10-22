@@ -25,7 +25,7 @@ O projeto está sendo desenvolvido com **React Native, TypeScript e Firebase**, 
 ### 🌐 Contato
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/daniel-de-paiva" target="_blank">
+    <a href="https://www.linkedin.com/in/danielpaiva08" target="_blank">
         <img alt="LinkedIn" title="Me siga no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
     <a href="https://www.instagram.com" target="_blank">
