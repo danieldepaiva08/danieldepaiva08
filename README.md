@@ -13,14 +13,9 @@ Estou sempre buscando aprimorar meus conhecimentos em linguagens de programaçã
 
 **🏆 Conquistas e Experiência**  
 
-Atualmente estou concluindo o **Ensino Médio** integrado ao **Curso Técnico em Desenvolvimento de Sistemas**, onde tenho a oportunidade de me desenvolver tanto no âmbito técnico quanto pessoal.  
+Atualmente estou cursando **Engenharia de Software** na  **Unimetrocamp**, além disso, possuo técnico em **Desenvolvimento de Sistemas** pela **Etec de Hortolândia**.
 Possuo grande interesse em desenvolver soluções que sejam **funcionais e criativas**, que atendam às reais necessidades das pessoas.  
 
-No momento, estou me dedicando ao meu **TCC (Trabalho de Conclusão de Curso)**, onde sou o **Líder de Projeto**.  
-A solução **ILaw** consiste em uma aplicação mobile que funcione como um **"Uber para advogados"**, criada com o intuito de conectar profissionais da área de Direito a clientes de forma rápida e eficiente.  
-O projeto está sendo desenvolvido com **React Native, TypeScript e Firebase**, permitindo que eu aprofunde meus conhecimentos técnicos, além de fortalecer minhas habilidades em **liderança, planejamento e desenvolvimento de projetos**.
-
----
 
 ### 🌐 Contato
 
